@@ -1,4 +1,4 @@
-# JavaScript-To-Do
-JavaScript To Do App 
+# To Do App 
+Powerd By JavaScript 
 
 <img src="todo.png" alt="demo">
