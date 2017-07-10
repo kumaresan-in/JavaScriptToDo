@@ -1,4 +1,4 @@
 # JavaScript-To-Do
 JavaScript To Do App 
 
-<img src="todo.jpg" alt="demo">
+<img src="todo.png" alt="demo">
